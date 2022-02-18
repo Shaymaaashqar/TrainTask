@@ -1,2 +1,4 @@
 haymaa1
 change a.txt and commit
+update a.txt in left branch
+
