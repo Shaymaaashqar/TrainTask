@@ -1,3 +1,8 @@
 haymaa1
 change a.txt and commit
+<<<<<<< HEAD
 update a.txt in right branch
+=======
+update a.txt in left branch
+
+>>>>>>> updateLEFT
