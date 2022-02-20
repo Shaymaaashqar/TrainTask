@@ -1,8 +1,11 @@
 haymaa1
 change a.txt and commit
 
-update a.txt in right branch
+I understand you are accepting the two line changes below:
+update a.txt in right branch -- This line 
 
-update a.txt in left branch
+update a.txt in left branch -- This line
+
+Do you feel comfortable pulling my changes to your local branch as well?
 
 
